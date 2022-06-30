@@ -1,28 +1,9 @@
 {
-  "videos": [
+  "posts":[
     {
-      "id": 1,
-      "title": "json-server",
-      "video": "typicode",
-      "image": "typicode"
-    },
-    {
-      "id": 1,
-      "title": "json-server",
-      "video": "typicode",
-      "image": "typicode"
-    },
-    {
-      "id": 1,
-      "title": "json-server",
-      "video": "typicode",
-      "image": "typicode"
-    },
-    {
-      "id": 1,
-      "title": "json-server",
-      "video": "typicode",
-      "image": "typicode"
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
     }
-  ] 
+  ]
 }
