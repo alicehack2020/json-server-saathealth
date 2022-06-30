@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "video": "typicode",
+      "image": "typicode"
+    },
+    {
+      "id": 1,
+      "title": "json-server",
+      "video": "typicode",
+      "image": "typicode"
+    },
+    {
+      "id": 1,
+      "title": "json-server",
+      "video": "typicode",
+      "image": "typicode"
+    },
+    {
+      "id": 1,
+      "title": "json-server",
+      "video": "typicode",
+      "image": "typicode"
+    }
+  ] 
+}
